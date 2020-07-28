@@ -4,15 +4,11 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://www.youtube.com/watch?v=XfxIQ30txiU">
+        <img height="120" style={{borderRadius:'100%'}} src="https://pbs.twimg.com/profile_images/1169601681270726657/je18KVJj_400x400.jpg" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
-        {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
+        Orgulhosamente criado durante a pandemia por GUIZAO, vulgo "O BRABO"
       </p>
     </FooterBase>
   );

@@ -4,7 +4,7 @@ function ButtonLink(props) {
     // props => {  }
     console.log(props)
     return (
-        <a href={props.href} className={props.className}>
+        <a href={props.href} target="_blank" className={props.className}>
           Novo Filme
         </a>
         

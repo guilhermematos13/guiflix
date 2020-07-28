@@ -10,7 +10,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="Guiflix" />
             </a> 
 
-        <ButtonLink className="ButtonLink" href="/">
+        <ButtonLink className="ButtonLink" href="https://www.youtube.com/watch?v=xODKREoGjxI">
           Novo Filme
         </ButtonLink>
         </nav>
