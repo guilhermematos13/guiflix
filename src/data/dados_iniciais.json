@@ -2,12 +2,12 @@
   "categorias": [
     {
       "titulo": "Lolzin",
-      "link": "https://www.youtube.com/watch?v=l_fF_TbNFqc",
-      "cor": "#6BD1FF",
+      "link": "https://www.youtube.com/watch?v=LCZLabOywYU",
+      "cor": "#E50914",
       "videos": [
         {
-          "titulo": "Play Sinistra",
-          "url": "https://www.youtube.com/watch?v=l_fF_TbNFqc"
+          "titulo": "Battlefield V",
+          "url": "https://www.youtube.com/watch?v=LCZLabOywYU"
         },
         {
           "titulo": "Shot da Caju",
@@ -26,19 +26,36 @@
           "url": "https://www.youtube.com/watch?v=-cGNWymp-jA"
         },
         {
-          "titulo": "Um Gamer Aleatório",
-          "url": "https://www.youtube.com/watch?v=WiQKtYemBPA"
+          "titulo": "Cbbolao",
+          "url": "https://www.youtube.com/watch?v=izDXy9Eqblc"
+        },
+        {
+          "titulo": "Mitzada",
+          "url": "https://www.youtube.com/watch?v=GF-q5KNimBA"
+        },
+        {
+          "titulo": "TTzada",
+          "url": "https://www.youtube.com/watch?v=VRhf1d9vnDA"
+        },
+        {
+          "titulo": "BRTT E ESINHA",
+          "url": "https://www.youtube.com/watch?v=H1BDuwHyD1Q"
+        },
+        {
+          "titulo": "Arthur Lanches",
+          "url": "https://www.youtube.com/watch?v=3Wfxki4z6aw"
+        },
+        {
+          "titulo": "Arthur Lanches",
+          "url": "https://www.youtube.com/watch?v=hJPoZRenMsk"
         }
       ]
     },
    
     {
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "#E50914",
+      
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -59,6 +76,30 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        },
+        {
+          "titulo": "UFC 4",
+          "url": "https://www.youtube.com/watch?v=8h13zVcFSvc"
+        },
+        {
+          "titulo": "Days Gone",
+          "url": "https://www.youtube.com/watch?v=FKtaOY9lMvM"
+        },
+        {
+          "titulo": "Death Strading",
+          "url": "https://www.youtube.com/watch?v=tCI396HyhbQ"
+        },
+        {
+          "titulo": "Avengers",
+          "url": "https://www.youtube.com/watch?v=2MBE8flKW9k"
+        },
+        {
+          "titulo": "Sekiro",
+          "url": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
+        },
+        {
+          "titulo": "Shadow Of Tsushima",
+          "url": "https://www.youtube.com/watch?v=iqysmS4lxwQ"
         }
       ]
     }
